@@ -5,10 +5,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with opensource projects
-- 🥅 2023 Goals: Learn more about javascript frameworks
-- ⚡  Fun fact: I love to draw character
-- 😻 And Linux enthusiast
+
 
 
 ### Languages and Tools:
