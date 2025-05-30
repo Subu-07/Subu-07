@@ -37,12 +37,12 @@ I actively work on research-driven projects, including:
 * 📚 Continue mastering software architecture, design patterns, and scalable systems
 * 🛠 Contribute to open-source and share R\&D experiments
 
----
+
 
 ## 🧩 Tech Stack
 
 **Languages:**
-TypeScript • JavaScript • PHP • Ruby • HTML/CSS • Markdown • Bash
+TypeScript • Java • JavaScript • PHP • Ruby • HTML/CSS • Markdown • Bash
 
 **Frontend:**
 React • Next.js • Tailwind CSS • Fabric.js • shadcn/ui
