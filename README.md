@@ -2,7 +2,7 @@
 
 Hi, I'm **\Subhash**, a passionate and driven **Software Developer** focused on building elegant, efficient, and scalable digital solutions. With a deep interest in **R\&D**, I love working on systems that blend technical depth with real-world impact — from custom frameworks to design engines and productivity tools.
 
----
+
 
 ## 💼 What I Do
 
@@ -28,7 +28,7 @@ I actively work on research-driven projects, including:
 * Tooling: Git, Linux, Markdown, Obsidian for PKM
 * Design: Photoshop, UI/UX prototyping
 
----
+
 
 ## 📌 Goals
 
@@ -53,7 +53,7 @@ Zira Framework • Laravel • RedBean ORM • Twig • Git • Obsidian • Lin
 **Design:**
 Figma • Photoshop • UI/UX • Minimal branding
 
----
+
 
 ## 🚧 Current Projects
 
@@ -62,13 +62,13 @@ Figma • Photoshop • UI/UX • Minimal branding
 * 🧙‍♂️ **Solo Leveling Task App** – Gamified productivity app (React Native)
 * 🧾 **Zoho Suite Clone** – Full business app suite using Zira framework
 
----
+
 
 ## 📫 Connect with Me
 
 * 💻 [LinkedIn](https://linkedin.com/in/your-profile)
 
----
+
 
 
 
