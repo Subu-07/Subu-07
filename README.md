@@ -1,5 +1,3 @@
----
-
 ## 👋 About Me
 
 Hi, I'm **\Subhash**, a passionate and driven **Software Developer** focused on building elegant, efficient, and scalable digital solutions. With a deep interest in **R\&D**, I love working on systems that blend technical depth with real-world impact — from custom frameworks to design engines and productivity tools.
