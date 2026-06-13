@@ -1,78 +1,41 @@
-## 👋 About Me
+# 🛠️ SUBHASH // FULL-STACK ENGINE <!-- -->
 
-Hi, I'm **\Subhash**, a passionate and driven **Software Developer** focused on building elegant, efficient, and scalable digital solutions. With a deep interest in **R\&D**, I love working on systems that blend technical depth with real-world impact — from custom frameworks to design engines and productivity tools.
+I am a professional Full-Stack Developer with over 2 years of experience creating modern web applications, low-latency platforms, and custom modular tooling <!-- -->. Based in Chennai, India <!-- -->, my engineering focus revolves around optimizing backend performance layers, designing reactive user interfaces, and cultivating independent developer ecosystems <!-- -->.
 
+---
 
+## 🧠 The Cognitive System (5-Phase Workflow) <!-- -->
+I execute all software architecture pipelines through a rigid, systemized development protocol designed to eliminate boilerplate friction and maximize delivery velocity <!-- -->:
 
-## 💼 What I Do
+1. **Analysis** — Structural domain mapping and technical constraint discovery <!-- -->.
+2. **Analytics** — Establishing performance thresholds and relational data metric tracks <!-- -->.
+3. **Pre-Documentation** — Complete data schema design and routing contract definition before hour zero <!-- -->.
+4. **Action** — High-velocity production sprints utilizing optimized frameworks and local edge assistance <!-- -->.
+5. **Post-Documentation** — Compiling code catalogs, validation tracking arrays, and changelog records <!-- -->.
 
-🔧 **Custom Frameworks & Tools**
-I'm currently developing **Zira**, a custom PHP framework that supports:
+---
 
-* Dependency Injection with auto-binding (via interface scanning)
-* Controller auto-wiring
-* Modular routing with middleware
-* Twig templating and RedBean ORM integration
-  This forms the backbone of a larger goal — recreating Zoho-like SaaS modules in a modular, extensible architecture.
+## 🚀 The 50-MVP Production Runway <!-- -->
+I am actively executing an aggressive, long-term roadmap to design, test, and ship **50 functional MVP software products** backed by clean pre-documentation specs <!-- -->. This production track serves as the engineering framework to launch a sustainable **Open Source Dev Tooling & Ecosystems** business over the next 3 years <!-- -->.
 
-🧠 **R\&D Projects**
-I actively work on research-driven projects, including:
+---
 
-* A **Sketch-inspired Design Engine** using Next.js, TypeScript, Fabric.js, and shadcn/ui
-* A **Solo Leveling-inspired Mobile Task Manager** in React Native that turns personal goals into RPG-style quests and stats
+## 💻 Technical Telemetry Matrix <!-- -->
 
-🛠 **Web & App Development**
+| Layer | Technologies & Framework Abstractions |
+| :--- | :--- |
+| **Backend Architecture** | PHP (Laravel Core), Node.js, Custom **ZIRA Framework Engine** <!-- --> |
+| **Frontend Interfaces**  | Vue.js (Preferred Ecosystem Componentry), React <!-- --> |
+| **Data & Cloud Ops**     | MySQL (Relational Indexing & Join Tuning), AWS Deployment Infrastructure <!-- --> |
+| **Local AI Automation**  | Localized offline LLM deployment (Ollama, Llama 3.2) for secure code generation loops <!-- --> |
 
-* Frontend focus: TypeScript, React/Next.js, TailwindCSS
-* Backend: PHP (Zira Framework), Laravel, Ruby
-* Tooling: Git, Linux, Markdown, Obsidian for PKM
-* Design: Photoshop, UI/UX prototyping
+---
 
+## 📊 System State & Metrics <!-- -->
+* ⚡ **Target Performance Threshold**: `< 0.12ms` routing latency goals
+* 📦 **Current Active Subsystems**: Expanding the ZIRA Core documentation ecosystem <!-- -->
+* ⚙️ **Edge Infrastructure**: Samsung Galaxy Book4 local environment runner <!-- -->
 
+---
 
-## 📌 Goals
-
-* ✅ Build a flexible and modular design suite for digital creators
-* 🚀 Develop and monetize productivity + business tools
-* 📚 Continue mastering software architecture, design patterns, and scalable systems
-* 🛠 Contribute to open-source and share R\&D experiments
-
-
-
-## 🧩 Tech Stack
-
-**Languages:**
-TypeScript • Java • JavaScript • PHP • Ruby • HTML/CSS • Markdown • Bash
-
-**Frontend:**
-React • Next.js • Tailwind CSS • Fabric.js • shadcn/ui
-
-**Backend & Tools:**
-Zira Framework • Laravel • RedBean ORM • Twig • Git • Obsidian • Linux • SQLite/MySQL
-
-**Design:**
-Figma • Photoshop • UI/UX • Minimal branding
-
-
-
-## 🚧 Current Projects
-
-* ✨ **Zira Framework** – A modern, extensible PHP framework for building scalable apps
-* 🖌 **Design Suite** – Sketch + Figma-inspired editor with advanced shape tools
-* 🧙‍♂️ **Solo Leveling Task App** – Gamified productivity app (React Native)
-* 🧾 **Zoho Suite Clone** – Full business app suite using Zira framework
-
-
-
-## 📫 Connect with Me
-
-* 💻 [LinkedIn](https://linkedin.com/in/your-profile)
-
-
-
-
-
-
-
-
-
+*“Clean code practices, custom tooling systems, and continuous delivery loops.”*
